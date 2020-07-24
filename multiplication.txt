@@ -1,0 +1,2 @@
+public void mul():
+	return a*b;
